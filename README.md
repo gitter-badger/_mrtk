@@ -1,5 +1,7 @@
 # _mrtk
 
+[![Join the chat at https://gitter.im/hofstadter-io/_mrtk](https://badges.gitter.im/hofstadter-io/_mrtk.svg)](https://gitter.im/hofstadter-io/_mrtk?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Docs, Tutorials, and Code Samples for the Mixed Reality Toolkit.
 
 These will mainly focus on Unity + MRTK using the HoloLens 2.
